@@ -1,0 +1,2 @@
+class ExitGateController(object):
+    pass
